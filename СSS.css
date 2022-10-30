@@ -1,0 +1,24 @@
+p{
+    text-align: center;
+    font-size: 30px;
+
+}
+
+img {
+    color: white;
+    border-radius: 8px;
+    width: 700px;
+}
+
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.text-block {
+    margin-left: 300px;
+    margin-right: 300px;
+    width: 700px;
+    background: white;
+}
